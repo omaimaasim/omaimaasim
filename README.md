@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+This is a Software QA Engineer, highly self motivated and having a great enthusiasm towards Software Testing. I enjoy doing research and learning newd
+
 <!--
 **omaimaasim/omaimaasim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
